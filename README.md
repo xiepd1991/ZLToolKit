@@ -11,6 +11,14 @@
 - 支持linux、macos、ios、android、windows平台
 - 了解更多:[ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
 
+## 学习指南
+如果你想系统地学习这套代码，请查看 **[学习指南 (LEARNING_GUIDE.md)](LEARNING_GUIDE.md)**，其中包含：
+- 完整的学习路径（从基础到高级）
+- 详细的代码示例和解释
+- 实战项目练习
+- 常见问题解答
+- 最佳实践建议
+
 ## 特性
 - 网络库
   - tcp/udp客户端，接口简单易用并且是线程安全的，用户不必关心具体的socket api操作。
